@@ -1,0 +1,8 @@
+com/example/xpertgroup/model/BreedDTO.class
+com/example/xpertgroup/service/RetrofitService.class
+com/example/xpertgroup/model/ImageCat.class
+com/example/xpertgroup/model/Breed.class
+com/example/xpertgroup/service/CatsImagesService.class
+com/example/xpertgroup/controller/CatsImagesController.class
+com/example/xpertgroup/service/RetrofitImpl.class
+com/example/xpertgroup/XpertgroupApplication.class
