@@ -13,7 +13,7 @@ REST, ademøs de implementar pruebas unitarias y buenas prøcticas de desarrollo
 ## Funcionamiento
 
 
-### GET /breeds:
+### GET /breeds
 
 Retornara una lista de **todas** las razas de gatos. con la siguiente forma de cada una de las razas:
 
@@ -81,7 +81,7 @@ retornara la informacion asociada a la consulta teniendo en cuenta la los filtro
 
 ## Dockerizacion
 
-Actualmente esta creado el dockerfile correspondiente para la dockerizacion del API.
+Actualmente esta creado en la carpeta raiz del proyecto el archivo dockerfile correspondiente para la dockerizacion del API.
 
 ### crear image
 
